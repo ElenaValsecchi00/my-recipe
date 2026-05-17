@@ -1,4 +1,8 @@
-# My recipe for buttered toast
+My recipe
+
+---
+
+# Buttered toast
 
 ## Ingredients
 
