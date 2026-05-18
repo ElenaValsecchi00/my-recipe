@@ -1,7 +1,3 @@
-My recipe
-
----
-
 # Buttered toast
 
 ## Ingredients
