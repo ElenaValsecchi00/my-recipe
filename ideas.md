@@ -1,6 +1,0 @@
-#Ideas for my recipe
-- Cereal
-- Fried eggs
-- Tacos
-- Mango lassi
-- ...
