@@ -10,6 +10,8 @@
 ### Optional
 
 - jam
+-nutella
+-honey
 
 ## Instructions
 
